@@ -1,4 +1,4 @@
-zz# tushhgithub
+tushhgithub
 This is my first Git Repository
 <br>
- Author - Tushar Jadhav
+Author - Tushar Jadhav
